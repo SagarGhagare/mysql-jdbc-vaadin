@@ -4,7 +4,7 @@ This example shows how to build a web UI for an existing MySQL database using pl
 
 See the complete guide at: [https://vaadin.com/blog/-/blogs/building-a-web-ui-for-mysql-databases-in-plain-java-](https://vaadin.com/blog/-/blogs/building-a-web-ui-for-mysql-databases-in-plain-java-).
 
-
+![plot](./output.png)
 
 # Database Queries
 
